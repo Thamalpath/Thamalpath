@@ -22,7 +22,7 @@ A passionate **Full-Stack Web Developer** from 🇱🇰 **Sri Lanka**
 ## ⚒️ Languages-Frameworks-Tools ⚒️
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,react,nextjs,nodejs,js,ts,java,python,html,css,bootstrap,tailwind,mysql,git,github,vscode,postman,firebase,aws" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,react,nextjs,vuejs,nodejs,js,ts,java,python,html,css,bootstrap,tailwind,mysql,git,github,vscode,postman,firebase,aws" />
 </p>
 
 
